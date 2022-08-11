@@ -1,0 +1,286 @@
+{
+    "words": [
+        {
+            "id": 2,
+            "word": "Tincho"
+        },
+        {
+            "id": 3,
+            "word": "Flor"
+        }
+    ],
+    "icons": [
+        {
+            "id": 1,
+            "name": "0.circle.fill.svg"
+        },
+        {
+            "id": 2,
+            "name": "1.circle.fill.svg"
+        },
+        {
+            "id": 3,
+            "name": "2.circle.fill.svg"
+        },
+        {
+            "id": 4,
+            "name": "3.circle.fill.svg"
+        },
+        {
+            "id": 5,
+            "name": "4.alt.circle.fill.svg"
+        },
+        {
+            "id": 6,
+            "name": "5.circle.fill.svg"
+        },
+        {
+            "id": 7,
+            "name": "6.circle.fill.svg"
+        },
+        {
+            "id": 8,
+            "name": "7.circle.fill.svg"
+        },
+        {
+            "id": 9,
+            "name": "8.circle.fill.svg"
+        },
+        {
+            "id": 10,
+            "name": "9.circle.fill.svg"
+        },
+        {
+            "id": 11,
+            "name": "Component 1.svg"
+        },
+        {
+            "id": 12,
+            "name": "Component 2.svg"
+        },
+        {
+            "id": 13,
+            "name": "Frame 3.svg"
+        },
+        {
+            "id": 14,
+            "name": "Group 56.svg"
+        },
+        {
+            "id": 15,
+            "name": "Group 57.svg"
+        },
+        {
+            "id": 16,
+            "name": "Group 58.svg"
+        },
+        {
+            "id": 17,
+            "name": "Group 59.svg"
+        },
+        {
+            "id": 18,
+            "name": "Group 60.svg"
+        },
+        {
+            "id": 19,
+            "name": "Group 61.svg"
+        },
+        {
+            "id": 20,
+            "name": "Group 63.svg"
+        },
+        {
+            "id": 21,
+            "name": "Group 64.svg"
+        },
+        {
+            "id": 22,
+            "name": "Group 66.svg"
+        },
+        {
+            "id": 23,
+            "name": "Group 67.svg"
+        },
+        {
+            "id": 24,
+            "name": "Group 68.svg"
+        },
+        {
+            "id": 25,
+            "name": "Group 69.svg"
+        },
+        {
+            "id": 26,
+            "name": "Group 70.svg"
+        },
+        {
+            "id": 27,
+            "name": "Group 71.svg"
+        },
+        {
+            "id": 28,
+            "name": "Group 72.svg"
+        },
+        {
+            "id": 29,
+            "name": "Group 73.svg"
+        },
+        {
+            "id": 30,
+            "name": "Group 74.svg"
+        },
+        {
+            "id": 31,
+            "name": "Group 75.svg"
+        },
+        {
+            "id": 32,
+            "name": "a.circle.fill.svg"
+        },
+        {
+            "id": 33,
+            "name": "b.circle.fill.svg"
+        },
+        {
+            "id": 34,
+            "name": "bitcoinsign.circle.fill.svg"
+        },
+        {
+            "id": 35,
+            "name": "c.circle.fill.svg"
+        },
+        {
+            "id": 36,
+            "name": "d.circle.fill.svg"
+        },
+        {
+            "id": 37,
+            "name": "dollarsign.circle.fill.svg"
+        },
+        {
+            "id": 38,
+            "name": "e.circle.fill.svg"
+        },
+        {
+            "id": 39,
+            "name": "eurosign.circle.fill.svg"
+        },
+        {
+            "id": 40,
+            "name": "exclamationmark.circle.fill.svg"
+        },
+        {
+            "id": 41,
+            "name": "f.circle.fill.svg"
+        },
+        {
+            "id": 42,
+            "name": "g.circle.fill.svg"
+        },
+        {
+            "id": 43,
+            "name": "h.circle.fill.svg"
+        },
+        {
+            "id": 44,
+            "name": "i.circle.fill.svg"
+        },
+        {
+            "id": 45,
+            "name": "j.circle.fill.svg"
+        },
+        {
+            "id": 46,
+            "name": "k.circle.fill.svg"
+        },
+        {
+            "id": 47,
+            "name": "l.circle.fill.svg"
+        },
+        {
+            "id": 48,
+            "name": "m.circle.fill.svg"
+        },
+        {
+            "id": 49,
+            "name": "n.circle.fill.svg"
+        },
+        {
+            "id": 50,
+            "name": "number.circle.fill.svg"
+        },
+        {
+            "id": 51,
+            "name": "o.circle.fill.svg"
+        },
+        {
+            "id": 52,
+            "name": "p.circle.fill.svg"
+        },
+        {
+            "id": 53,
+            "name": "q.circle.fill.svg"
+        },
+        {
+            "id": 54,
+            "name": "questionmark.circle.fill.svg"
+        },
+        {
+            "id": 55,
+            "name": "r.circle.fill.svg"
+        },
+        {
+            "id": 56,
+            "name": "s.circle.fill.svg"
+        },
+        {
+            "id": 57,
+            "name": "sterlingsign.circle.fill.svg"
+        },
+        {
+            "id": 58,
+            "name": "t.circle.fill.svg"
+        },
+        {
+            "id": 59,
+            "name": "u.circle.fill.svg"
+        },
+        {
+            "id": 60,
+            "name": "v.circle.fill.svg"
+        },
+        {
+            "id": 61,
+            "name": "w.circle.fill.svg"
+        },
+        {
+            "id": 62,
+            "name": "x.circle.fill.svg"
+        },
+        {
+            "id": 63,
+            "name": "y.circle.fill.svg"
+        },
+        {
+            "id": 64,
+            "name": "yensign.circle.fill.svg"
+        },
+        {
+            "id": 65,
+            "name": "z.circle.fill.svg"
+        }
+    ],
+    "words_icons": [
+        {
+            "id": 2,
+            "id_word": 2,
+            "id_icon": 58
+        },
+        {
+            "id": 3,
+            "id_word": 3,
+            "id_icon": 45
+        }
+    ]
+}

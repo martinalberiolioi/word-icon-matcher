@@ -1,0 +1,32 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "facebook"
+    },
+    {
+      "id": 2,
+      "word": "instagram"
+    }
+  ],
+  "icons": [
+    {
+      "id": 1,
+      "name": "Component 1"
+    },
+    {
+      "id": 2,
+      "name": "Group 61"
+    }
+  ],
+  "words_icons": [
+    {
+      "id_word": 1,
+      "id_icon": 1
+    },
+    {
+      "id_word": 2,
+      "id_icon": 2
+    }
+  ]
+}

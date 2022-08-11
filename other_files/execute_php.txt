@@ -1,0 +1,12 @@
+https://stackoverflow.com/questions/4301975/how-can-i-run-a-php-without-a-web-server
+
+You should normally be able to run a php file (after a successful installation) just by running this command:
+
+		$ /path/to/php myfile.php // unix way
+		C:\php\php.exe myfile.php // windows way
+		You can read more about running PHP in CLI mode here.
+
+It's worth adding that PHP from version 5.4 onwards is able to run a web server on its own. You can do it by running this code in a folder which you want to serve the pages from:
+
+		$ php -S localhost:8000
+
